@@ -31,7 +31,7 @@ Este dashboard permite explorar de manera interactiva la evolución de las matr�
 | ⚡ **Optimización para la nube** | Procesamiento previo de 28M+ registros → 6K filas (4,650x compresión) |
 
 ---
-## 🛠️ Tecnologías Utilizadas
+## 🛠️ Paquetes Utilizados
 
 ```r
 # Paquetes principales
